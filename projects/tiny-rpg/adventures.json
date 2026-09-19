@@ -1,0 +1,177 @@
+{
+  "adventures": [
+    {
+      "id": "1",
+      "title": "The Forgotten Crypt",
+      "intro": "Deep in the mountains, you stumble upon an ancient crypt...",
+      "paths": {
+        "entrance": {
+          "description": "You find a locked door with two paths ahead.",
+          "choices": {
+            "left": "You enter a narrow corridor filled with skeletal remains.",
+            "right": "You enter a dimly lit chamber with an altar."
+          },
+          "next": {
+            "left": "skeletal_corridor",
+            "right": "altar_chamber"
+          }
+        },
+        "skeletal_corridor": {
+          "description": "The skeletal remains animate and attack!",
+          "type": "combat",
+          "enemy": "Skeletal Knight",
+          "next": "treasure_room"
+        },
+        "altar_chamber": {
+          "description": "The altar glows. A shadowy figure demands an offering.",
+          "choices": {
+            "gold": {
+              "result": "The shadow whispers a blessing upon you.",
+              "reward": {
+                "gold": -20,
+                "xp": 30
+              },
+              "next": "treasure_room"
+            },
+            "refuse": {
+              "result": "The shadow curses you and vanishes.",
+              "penalty": {
+                "health": -15
+              },
+              "next": "trap_room"
+            }
+          }
+        },
+        "treasure_room": {
+          "description": "You find a chest overflowing with gold and jewels.",
+          "reward": {
+            "gold": 200,
+            "xp": 100
+          },
+          "ending": "You leave the crypt victorious, your pockets heavy with treasure."
+        },
+        "trap_room": {
+          "description": "The floor collapses beneath you! You barely survive.",
+          "penalty": {
+            "health": -30
+          },
+          "ending": "You crawl out of the crypt, battered but alive."
+        }
+      }
+    },
+    {
+      "id": "2",
+      "title": "The Enchanted Garden",
+      "intro": "A hidden path leads you to a vibrant garden humming with magical energy...",
+      "paths": {
+        "entrance": {
+          "description": "A gnarled tree whispers riddles to those who enter.",
+          "choices": {
+            "answer correctly": {
+              "result": "The tree smiles and reveals a hidden path.",
+              "next": "flower_meadow"
+            },
+            "ignore the tree": {
+              "result": "The vines tighten around you.",
+              "penalty": {
+                "health": -10
+              },
+              "next": "thorny_path"
+            }
+          }
+        },
+        "flower_meadow": {
+          "description": "A beautiful meadow hums with enchanted flowers.",
+          "choices": {
+            "pick flowers": {
+              "result": "The flowers release a soothing scent, healing your wounds.",
+              "reward": {
+                "health": 20
+              },
+              "next": "sacred_tree"
+            },
+            "move quietly": {
+              "result": "You slip past unseen, reaching the heart of the garden.",
+              "next": "sacred_tree"
+            }
+          }
+        },
+        "thorny_path": {
+          "description": "The vines lash out, tearing at your armor.",
+          "penalty": {
+            "health": -15
+          },
+          "next": "sacred_tree"
+        },
+        "sacred_tree": {
+          "description": "The heart of the garden awaits — a tree glowing with power.",
+          "choices": {
+            "drink the sap": {
+              "result": "The sap restores your strength and grants you visions of the future.",
+              "reward": {
+                "health": 30,
+                "xp": 40
+              },
+              "ending": "You leave the garden feeling stronger and wiser."
+            },
+            "cut the tree": {
+              "result": "The tree screams, cursing you as its power fades.",
+              "penalty": {
+                "health": -20
+              },
+              "ending": "You escape the dying garden, but a shadow follows you."
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": "3",
+      "title": "The Bandit's Hideout",
+      "intro": "Following a trail of smoke, you discover a bandit camp in the hills.",
+      "paths": {
+        "entrance": {
+          "description": "You spot sentries patrolling the perimeter.",
+          "choices": {
+            "sneak in": {
+              "result": "You slip past the guards and enter the camp.",
+              "next": "camp_center"
+            },
+            "attack directly": {
+              "result": "You charge in and face the guards head-on!",
+              "type": "combat",
+              "enemy": "Bandit Brute",
+              "next": "camp_center"
+            }
+          }
+        },
+        "camp_center": {
+          "description": "The bandit leader confronts you.",
+          "choices": {
+            "bribe": {
+              "result": "The leader laughs but accepts your gold.",
+              "reward": {
+                "gold": -30
+              },
+              "ending": "You leave safely but lighter in coin."
+            },
+            "challenge": {
+              "result": "The leader accepts your challenge to combat!",
+              "type": "combat",
+              "enemy": "Bandit Leader",
+              "next": "loot_room"
+            }
+          }
+        },
+        "loot_room": {
+          "description": "You discover a hidden stash of gold and valuables!",
+          "reward": {
+            "gold": 150,
+            "xp": 75
+          },
+          "ending": "You escape with your spoils!"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+    "encounters": {
+        "traps": [
+            {
+                "id": "spike_pit",
+                "damage": 15,
+                "description": "A pit trap with sharp spikes awaits your misstep."
+            },
+            {
+                "id": "poison_darts",
+                "damage": 10,
+                "description": "Darts shoot from the walls, laced with poison!"
+            },
+            {
+                "id": "falling_boulders",
+                "damage": 20,
+                "description": "Rocks tumble down from above!"
+            }
+        ],
+        "puzzles": [
+            {
+                "id": "riddle_door",
+                "question": "What has keys but can't open locks?",
+                "answer": "piano",
+                "description": "A stone door with mysterious runes... solve the riddle to proceed."
+            },
+            {
+                "id": "symbol_lock",
+                "pattern": ["circle", "triangle", "square"],
+                "description": "An ancient lock with symbols that must be aligned."
+            }
+        ],
+        "rooms": [
+			{
+				"id": "goblin_ambush",
+				"type": "combat",
+				"enemy": "goblin",
+				"description": "The air smells foul, and the flicker of torches reveals claw marks on the walls. Suddenly, goblins leap from the shadows, brandishing crude weapons!"
+			},
+			{
+				"id": "treasure_room",
+				"type": "treasure",
+				"gold": 50,
+				"description": "Golden light dances across the stone walls, reflecting off a chest surrounded by old bones. The air is stale, yet the glint of treasure beckons."
+			},
+			{
+				"id": "hidden_armory",
+				"type": "loot",
+				"item": "enchanted shield",
+				"description": "Rusty armor lines the walls, but one polished shield gleams with a faint magical aura. Dust swirls beneath your boots as you approach."
+			},
+			{
+				"id": "forgotten_sanctum",
+				"type": "combat",
+				"enemy": "undead priest",
+				"description": "The shattered remains of an altar sit at the far end of the room. Flickering candles reveal a shadowy figure in tattered robes muttering dark incantations."
+			},
+			{
+				"id": "cursed_gallery",
+				"type": "trap",
+				"damage": 15,
+				"description": "The walls are adorned with eerie portraits. As you pass, the eyes seem to follow you... then, one of the faces sneers and a dart shoots from the wall!"
+			},
+			{
+				"id": "collapsed_tunnel",
+				"type": "obstacle",
+				"description": "Rubble partially blocks the path. You may need to clear some stones to continue, but the shifting pile looks unstable."
+			},
+			{
+				"id": "enchanted_library",
+				"type": "puzzle",
+				"description": "Ancient books line the shelves, but one seems to glow faintly. A cryptic note warns: 'Knowledge is power, but choose wisely...'"
+			}
+		],
+
+        "corridors": [
+            {
+                "id": "dark_hall",
+                "description": "A long, narrow corridor with eerie whispers echoing through it."
+            },
+            {
+                "id": "misty_path",
+                "description": "A foggy corridor where visibility is almost zero."
+            }
+        ],
+        "boss_fights": [
+            {
+                "id": "demon_lord",
+                "enemy": "demon",
+                "description": "A powerful demon blocks your path!"
+            },
+            {
+                "id": "orc_chieftain",
+                "enemy": "orc",
+                "description": "An orc chieftain guards the dungeon's treasure hoard!"
+            }
+        ]
+    },
+
+    "dungeons": [
+        {
+            "id": "dark_cavern",
+            "name": "Dark Cavern",
+            "num_traps": 2,
+            "num_puzzles": 1,
+            "num_rooms": 3,
+            "num_corridors": 2,
+            "boss": true,
+            "reward": {
+                "gold": 200,
+                "xp": 100,
+                "item": "+2 long sword"
+            }
+        },
+        {
+            "id": "haunted_catacombs",
+            "name": "Haunted Catacombs",
+            "num_traps": 1,
+            "num_puzzles": 2,
+            "num_rooms": 4,
+            "num_corridors": 1,
+            "boss": true,
+            "reward": {
+                "gold": 300,
+                "xp": 150,
+                "item": "amulet of strength"
+            }
+        }
+    ]
+}

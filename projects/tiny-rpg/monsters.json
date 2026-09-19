@@ -1,0 +1,270 @@
+{
+    "monsters": [
+        {
+            "id": "goblin",
+            "name": "Goblin",
+            "base_health": 30,
+            "base_power": 2,
+            "base_defense": 1,
+            "ability": null,
+            "loot": {"gold": 10, "xp": 5},
+            "dialogue": [
+                "Hehehe! Time to take your shiny coins!",
+                "You look weak... this will be fun!",
+                "Goblins always win! You will lose!"
+            ],
+			"responses": {
+                "taunt": "Goblins NEVER back down! I'll show you!",
+                "intimidate": "O-okay! Maybe I run... but next time, I win!",
+                "negotiate": "Hmm... Maybe we can talk? You give me gold, I let you live."
+            }
+        },
+        {
+            "id": "bandit",
+            "name": "Bandit",
+            "base_health": 40,
+            "base_power": 3,
+            "base_defense": 2,
+            "ability": "steal",
+            "loot": {"gold": 20, "xp": 10},
+            "dialogue": [
+                "Hand over your gold, and I *might* let you live!",
+                "Another fool wandering these roads... big mistake.",
+                "This is my territory! Your life belongs to me now!"
+            ],
+			"responses": {
+                "taunt": "Hah! You think you’re tough? I’ll cut that arrogance out of you!",
+                "intimidate": "Alright, alright! No need for violence! I’ll be on my way.",
+                "negotiate": "You want to pay your way out? 30 gold, and I let you go."
+            }
+        },
+        {
+            "id": "wolf",
+            "name": "Wild Wolf",
+            "base_health": 35,
+            "base_power": 4,
+            "base_defense": 1,
+            "ability": "dodge",
+            "loot": {"gold": 15, "xp": 7},
+            "dialogue": [
+                "🐺 *The wolf snarls, baring its fangs!*",
+                "🐺 *A deep growl echoes through the trees...*",
+                "🐺 *The wolf circles you, ready to pounce!*"
+            ],
+			"responses": {
+                "taunt": "🐺 *The wolf howls angrily and lunges at you!*",
+                "intimidate": "🐺 *The wolf hesitates... then backs away into the forest.*",
+                "negotiate": "🐺 *The wolf doesn’t understand your offer and attacks!*"
+            }
+        },
+        {
+            "id": "skeleton",
+            "name": "Skeleton Warrior",
+            "base_health": 50,
+            "base_power": 5,
+            "base_defense": 3,
+            "ability": "resurrect",
+            "loot": {"gold": 25, "xp": 15},
+            "dialogue": [
+                "💀 *Bones rattle as the skeleton advances!*",
+                "💀 *A hollow voice echoes: 'You shall join the undead!'*",
+                "💀 *The skeleton raises its rusted sword...*"
+            ],
+			"responses": {
+                "taunt": "💀 *The skeleton cackles, brandishing its rusted sword.* 'Then let’s dance, mortal!'",
+                "intimidate": "💀 *It seems unfazed. Death does not fear threats.*",
+                "negotiate": "💀 *The skeleton stares at you. It does not understand.*"
+            }
+        },
+        {
+            "id": "orc",
+            "name": "Orc Brute",
+            "base_health": 60,
+            "base_power": 6,
+            "base_defense": 4,
+            "ability": "berserk",
+            "loot": {"gold": 30, "xp": 20},
+            "dialogue": [
+                "RAARGH! Orc SMASH puny human!",
+                "You fight Orc? Orc fight BACK!",
+                "Give me your weapons, or I take them from your corpse!"
+            ],
+			"responses": {
+                "taunt": "HAHA! You have big words! LET'S FIGHT!",
+                "intimidate": "Orc is strong... but maybe not today. Orc leave.",
+                "negotiate": "Give me 30 gold, I let you go."
+            }
+        },
+		{
+            "id": "shadow_figure",
+            "name": "Shadow Figure",
+            "base_health": 60,
+            "base_power": 6,
+            "base_defense": 4,
+            "ability": "curse",
+            "loot": {"gold": 40, "xp": 25},
+            "dialogue": [
+                "🕷️ *The shadow looms closer... wisps of smoke trail behind it.*",
+                "🕷️ *A distorted voice whispers: 'Your end is near...'*",
+                "🕷️ *The shadow shifts, becoming more defined with every step...*"
+            ],
+            "responses": {
+                "taunt": "🕷️ *'You amuse me... but death is certain.'*",
+                "intimidate": "🕷️ *'You think words will stop me?'*",
+                "negotiate": "🕷️ *'There is no bargain... only suffering.'*"
+            }
+        },
+        {
+            "id": "bandit_leader",
+            "name": "Bandit Leader",
+            "base_health": 70,
+            "base_power": 7,
+            "base_defense": 5,
+            "ability": "power_strike",
+            "loot": {"gold": 100, "xp": 50, "rare_item": "+1 sword, long"},
+            "dialogue": [
+                "💀 'I've cut down tougher than you!'",
+                "💀 'Surrender now, and maybe I'll leave you breathing.'",
+                "💀 'Your gold... or your life!'"
+            ],
+            "responses": {
+                "taunt": "💀 'You’ll regret those words!'",
+                "intimidate": "💀 'Ha! I've stared death in the face before... and laughed.'",
+                "negotiate": "💀 'You can bribe me... but it'll cost you dearly.'"
+            }
+        },
+        {
+            "id": "demon",
+            "name": "Demon",
+            "base_health": 75,
+            "base_power": 8,
+            "base_defense": 5,
+            "ability": "fireball",
+            "loot": {"gold": 50, "xp": 30, "rare_item": "demon blade"},
+            "dialogue": [
+                "🔥 Mortal, you dare challenge me?!",
+                "🔥 Your soul will burn in the eternal flames!",
+                "🔥 This world belongs to us now, weakling!"
+            ],
+		"responses": {
+                "taunt": "🔥 Foolish human! You only hasten your doom!",
+                "intimidate": "🔥 You think I fear YOU?! HAHAHA! Prepare for eternal suffering!",
+                "negotiate": "🔥 You amuse me. Leave now, and I shall spare you... for a price."
+            }
+		},
+		{
+            "id": "dragon",
+            "name": "Ancient Dragon",
+            "base_health": 200,
+            "base_power": 20,
+            "base_defense": 15,
+            "ability": "firestorm",
+            "loot": {"gold": 500, "xp": 300, "rare_item": "dragon scale armor"},
+            "dialogue": [
+                "🐉 'You dare disturb my slumber?'",
+                "🐉 'Your bones will burn in dragonfire!'",
+                "🐉 'I will feast upon your charred remains!'"
+            ],
+            "responses": {
+                "taunt": "🐉 'Foolish mortal... your courage will be your undoing!'",
+                "intimidate": "🐉 'Intimidation? HA! I have ruled these skies for centuries!'",
+                "negotiate": "🐉 'Bribery? Perhaps your gold may delay your death... but not for long.'"
+            }
+        },
+        {
+            "id": "wyvern",
+            "name": "Winged Wyvern",
+            "base_health": 150,
+            "base_power": 18,
+            "base_defense": 12,
+            "ability": "aerial_strike",
+            "loot": {"gold": 350, "xp": 200, "rare_item": "wyvern talon"},
+            "dialogue": [
+                "🦇 'I will strike from the sky!'",
+                "🦇 'You cannot run from my claws!'",
+                "🦇 'Scream loud... I enjoy the sound!'"
+            ],
+            "responses": {
+                "taunt": "🦇 'Your insults bore me... prepare to die!'",
+                "intimidate": "🦇 'You think I fear you? I will feast on your corpse!'",
+                "negotiate": "🦇 'Bah! Your gold is useless to me!'"
+            }
+        },
+        {
+            "id": "basilisk",
+            "name": "Basilisk",
+            "base_health": 180,
+            "base_power": 22,
+            "base_defense": 10,
+            "ability": "petrify",
+            "loot": {"gold": 400, "xp": 250, "rare_item": "basilisk eye"},
+            "dialogue": [
+                "🐍 'Look into my eyes... and become stone!'",
+                "🐍 'You are no match for me, mortal!'",
+                "🐍 'My gaze will end your pitiful life!'"
+            ],
+            "responses": {
+                "taunt": "🐍 'Foolish! Now stare into my eyes and perish!'",
+                "intimidate": "🐍 'Hisss... you think you can frighten ME?'",
+                "negotiate": "🐍 'What can gold buy... when you are stone?'"
+            }
+        },
+        {
+            "id": "chimera",
+            "name": "Chimera",
+            "base_health": 220,
+            "base_power": 25,
+            "base_defense": 13,
+            "ability": "triple_strike",
+            "loot": {"gold": 450, "xp": 280, "rare_item": "chimera horn"},
+            "dialogue": [
+                "🦁🐐🐍 'Three heads... three ways to die!'",
+                "🦁🐐🐍 'We hunger for your flesh!'",
+                "🦁🐐🐍 'Your fate is sealed!'"
+            ],
+            "responses": {
+                "taunt": "🦁🐐🐍 'We love a challenge... but we love victory more!'",
+                "intimidate": "🦁🐐🐍 'You can't scare three minds at once!'",
+                "negotiate": "🦁🐐🐍 'Gold? No... we crave blood!'"
+            }
+        },
+        {
+            "id": "hydra",
+            "name": "Hydra",
+            "base_health": 250,
+            "base_power": 28,
+            "base_defense": 18,
+            "ability": "regenerate",
+            "loot": {"gold": 600, "xp": 350, "rare_item": "hydra heart"},
+            "dialogue": [
+                "🐉🐉🐉 'Cut off one head... and three more shall rise!'",
+                "🐉🐉🐉 'You will drown in the blood of your fallen allies!'",
+                "🐉🐉🐉 'This is my domain... prepare to die!'"
+            ],
+            "responses": {
+                "taunt": "🐉🐉🐉 'Your words are weak... and so are you!'",
+                "intimidate": "🐉🐉🐉 'HA! I am IMMORTAL!'",
+                "negotiate": "🐉🐉🐉 'Your gold is worthless... your life is what I seek!'"
+            }
+        },
+        {
+            "id": "giant",
+            "name": "Mountain Giant",
+            "base_health": 300,
+            "base_power": 30,
+            "base_defense": 20,
+            "ability": "earthquake",
+            "loot": {"gold": 700, "xp": 400, "rare_item": "giant's club"},
+            "dialogue": [
+                "🏔️ 'I AM THE EARTH! TREMBLE BEFORE ME!'",
+                "🏔️ 'Your bones will break like twigs beneath my feet!'",
+                "🏔️ 'I will crush you like the insects you are!'"
+            ],
+            "responses": {
+                "taunt": "🏔️ 'Tiny human... your bravery is foolish!'",
+                "intimidate": "🏔️ 'You cannot intimidate the mountain itself!'",
+                "negotiate": "🏔️ 'Bah! Gold cannot stop my wrath!'"
+            }
+        }
+    ]
+}

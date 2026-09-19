@@ -1,0 +1,30 @@
+{
+    "weapons": {
+        "sword, short": {"price": 30, "power": 2},
+        "sword, long": {"price": 50, "power": 3},
+        "dagger": {"price": 20, "power": 1},
+        "bow, short": {"price": 40, "power": 2},
+        "bow, long": {"price": 70, "power": 3},
+        "demon blade": {"price": 10000, "power": 10},
+		"+2 long sword": {"price": 200, "power": 5},
+		"+1 long sword": {"price": 100, "power": 4},
+		"giant's club": {"price": 20000, "power": 15}
+    },
+    "armor": {
+        "armor, light": {"price": 50, "defense": 1},
+        "armor, medium": {"price": 65, "defense": 2},
+        "armor, heavy": {"price": 80, "defense": 3},
+		"dragon scale armor": {"price": 500, "defense": 5},
+    },
+    "potions": {
+        "potion, healing": {"price": 25, "heal": 20},
+		"potion, mana": {"price": 20, "regen": 20}
+    },
+	"amulets": {
+		"amulet of strength": {"price": 1000, "power": 5},
+		"amulet of life": {"price": 1500, "health_max": 50}
+	},
+	"rings" {
+		"ring of defense" {"price": 1000, "defense": 5}
+	}
+}

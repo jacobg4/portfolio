@@ -1,0 +1,1010 @@
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+4
+Try again
+For Free Birds enter 1
+For Bethooven enter 2
+0
+Try again
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+8
+For 3:30pm enter 1
+For 6:00pm enter 2
+1
+How many adult tickets do you want?
+-1
+How many child tickets do you want?
+3
+How many adult tickets do you want?
+1
+How many child tickets do you want?
+-1
+How many adult tickets do you want?
+1
+How many child tickets do you want?
+0
+Select your seats
+There are 56 seats available
+
+Enter row number
+7
+Enter seat number
+1
+Your cost for Free Birds at 3:30pm is:
+1 adults for a total of $6.00
+Total:         $6.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+1
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+1
+Select your seats
+There are 53 seats available
+
+Enter row number
+3
+Enter seat number
+4
+Your cost for Free Birds at 3:30pm is:
+1 children for a total of $4.00
+Total:         $4.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    X    |    #    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    *    |    *    |    *    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+1
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+0
+Select your seats
+There are 48 seats available
+
+Enter row number
+41
+This row is full, please select another one
+Enter row number
+-1
+Enter row number
+4
+Enter seat number
+4
+Seat unavailable
+Enter seat number
+5
+Enter seat number
+6
+Your cost for Free Birds at 3:30pm is:
+2 adults for a total of $12.00
+Total:         $12.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    X    |    #    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    *    |    *    |    *    |    X    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    *    |    *    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+1
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+2
+Select your seats
+There are 42 seats available
+
+Enter row number
+5
+Enter seat number
+1
+Enter seat number
+2
+Your cost for Free Birds at 3:30pm is:
+2 children for a total of $8.00
+Total:         $8.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    X    |    #    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    X    |    *    |    X    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    #    |    X    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+1
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+2
+Select your seats
+There are 36 seats available
+
+Enter row number
+1
+Enter seat number
+1
+Enter seat number
+2
+Enter seat number
+3
+Enter seat number
+4
+Your cost for Free Birds at 3:30pm is:
+2 adults for a total of $12.00
+2 children for a total of $8.00
+Total:         $20.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    #    |    #    |    #    |    #    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    X    |    X    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    X    |    #    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    X    |    *    |    X    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    #    |    X    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+1
+How many adult tickets do you want?
+1
+How many child tickets do you want?
+0
+Select your seats
+There are 56 seats available
+
+Enter row number
+4
+Enter seat number
+6
+Your cost for Bethooven at 5:30pm is:
+1 adults for a total of $6.00
+Total:         $6.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    *    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    *    |    *    |    *    |    *    |    X    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    *    |    *    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+1
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+1
+Select your seats
+There are 51 seats available
+
+Enter row number
+5
+Enter seat number
+1
+Your cost for Bethooven at 5:30pm is:
+1 children for a total of $4.00
+Total:         $4.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    *    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    *    |    *    |    X    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    X    |    *    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+1
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+0
+Select your seats
+There are 47 seats available
+
+Enter row number
+6
+Enter seat number
+2
+Enter seat number
+3
+Your cost for Bethooven at 5:30pm is:
+2 adults for a total of $12.00
+Total:         $12.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    *    |    *    |    *    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    *    |    *    |    X    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    X    |    X    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    #    |    #    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    X    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+4
+Try again
+For Free Birds enter 1
+For Bethooven enter 2
+5
+Try again
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+1
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+2
+Select your seats
+There are 41 seats available
+
+Enter row number
+3
+Enter seat number
+1
+Enter seat number
+2
+Your cost for Bethooven at 5:30pm is:
+2 children for a total of $8.00
+Total:         $8.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    #    |    X    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    X    |    *    |    *    |    X    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    X    |    X    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    #    |    #    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    X    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+1
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+2
+Select your seats
+There are 35 seats available
+
+Enter row number
+7
+Enter seat number
+4
+Enter seat number
+5
+Enter seat number
+6
+Enter seat number
+7
+Your cost for Bethooven at 5:30pm is:
+2 adults for a total of $12.00
+2 children for a total of $8.00
+Total:         $20.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    #    |    X    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    X    |    *    |    *    |    X    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    #    |    X    |    X    |    *    |    *    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    X    |    #    |    #    |    X    |    X    |    X    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    X    |    X    |    #    |    #    |    #    |    #    |    X    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+2
+How many adult tickets do you want?
+1
+How many child tickets do you want?
+0
+Select your seats
+There are 56 seats available
+
+Enter row number
+4
+Enter seat number
+1
+Your cost for Free Birds at 6:00pm is:
+1 adults for a total of $8.00
+Total:         $8.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+2
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+1
+Select your seats
+There are 52 seats available
+
+Enter row number
+5
+Enter seat number
+2
+Your cost for Free Birds at 6:00pm is:
+1 children for a total of $6.00
+Total:         $6.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+2
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+0
+Select your seats
+There are 49 seats available
+
+Enter row number
+2
+Enter seat number
+1
+Enter seat number
+2
+Your cost for Free Birds at 6:00pm is:
+2 adults for a total of $16.00
+Total:         $16.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    #    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+2
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+2
+Select your seats
+There are 43 seats available
+
+Enter row number
+6
+Enter seat number
+5
+Enter seat number
+6
+Your cost for Free Birds at 6:00pm is:
+2 children for a total of $12.00
+Total:         $12.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    #    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    #    |    X    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    X    |    *    |    X    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+2
+How many adult tickets do you want?
+1
+How many child tickets do you want?
+0
+Select your seats
+There are 56 seats available
+
+Enter row number
+3
+Enter seat number
+1
+Your cost for Bethooven at 7:30pm is:
+1 adults for a total of $8.00
+Total:         $8.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+1
+For 3:30pm enter 1
+For 6:00pm enter 2
+2
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+2
+Select your seats
+There are 35 seats available
+
+Enter row number
+3
+Enter seat number
+4
+Enter seat number
+5
+Enter seat number
+6
+Enter seat number
+7
+Your cost for Free Birds at 6:00pm is:
+2 adults for a total of $16.00
+2 children for a total of $12.00
+Total:         $28.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    #    |    #    |    X    |    X    |    X    |    X    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    X    |    X    |    X    |    #    |    #    |    #    |    #    |    X    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    #    |    X    |    *    |    X    |    X    |    X    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    #    |    X    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    X    |    *    |    X    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+2
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+1
+Select your seats
+There are 52 seats available
+
+Enter row number
+5
+Enter seat number
+3
+Your cost for Bethooven at 7:30pm is:
+1 children for a total of $6.00
+Total:         $6.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    X    |    #    |    X    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    *    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+2
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+0
+Select your seats
+There are 47 seats available
+
+Enter row number
+4
+Enter seat number
+4
+Enter seat number
+5
+Your cost for Bethooven at 7:30pm is:
+2 adults for a total of $16.00
+Total:         $16.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    X    |    *    |    X    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    X    |    #    |    #    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    *    |    X    |    #    |    X    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    *    |    *    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+2
+How many adult tickets do you want?
+0
+How many child tickets do you want?
+2
+Select your seats
+There are 41 seats available
+
+Enter row number
+6
+Enter seat number
+1
+Enter seat number
+2
+Your cost for Bethooven at 7:30pm is:
+2 children for a total of $12.00
+Total:         $12.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    *    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    X    |    *    |    X    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    X    |    #    |    #    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    X    |    #    |    X    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    #    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+2
+For 5:30pm enter 1
+For 7:30pm enter 2
+2
+How many adult tickets do you want?
+2
+How many child tickets do you want?
+2
+Select your seats
+There are 36 seats available
+
+Enter row number
+2
+Enter seat number
+3
+Enter seat number
+4
+Enter seat number
+5
+Enter seat number
+6
+Your cost for Bethooven at 7:30pm is:
+2 adults for a total of $16.00
+2 children for a total of $12.00
+Total:         $28.00
+Seats|  Seat 1 |  Seat 2 |  Seat 3 |  Seat 4 |  Seat 5 |  Seat 6 |  Seat 7 |  Seat 8 |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 1|    *    |    *    |    X    |    X    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 2|    X    |    X    |    #    |    #    |    #    |    #    |    X    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 3|    #    |    X    |    X    |    X    |    X    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 4|    X    |    *    |    X    |    #    |    #    |    X    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 5|    X    |    X    |    #    |    X    |    X    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 6|    #    |    #    |    X    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+Row 7|    X    |    X    |    *    |    *    |    *    |    *    |    *    |    *    |
+-----+---------+---------+---------+---------+---------+---------+---------+---------+
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+-99
+Try again
+To show current sales enter 1
+To show current profits enter 2
+To turn off the system enter 3
+To return to the main screen enter -99
+4
+Try again
+To show current sales enter 1
+To show current profits enter 2
+To turn off the system enter 3
+To return to the main screen enter -99
+1
+Enter 1 for sales by type
+Enter 2 for total sales
+Enter 3 to return to admin menu
+4
+Invalid Entry
+1
+  Adult Matinee  Adult Evening  Child Matinee  Child Evening
+  10             10             10             10
+2
+Total Sales        40
+3
+To show current sales enter 1
+To show current profits enter 2
+To turn off the system enter 3
+To return to the main screen enter -99
+2
+Enter 1 for profits by type
+Enter 2 for total profits
+Enter 3 to return to admin menu
+4
+Invalid Entry
+1
+  Adult Matinee  Adult Evening  Child Matinee  Child Evening
+  $60.00         $80.00         $40.00         $60.00
+2
+Total profit         $240.00
+3
+To show current sales enter 1
+To show current profits enter 2
+To turn off the system enter 3
+To return to the main screen enter -99
+-99
+
+Free Birds    3:30pm    6:00pm
+Bethooven     5:30pm    7:30pm
+
+Adult Tickets are: $6.00 (matinee before 6:00pm)    $8.00 (evening)
+Child Tickets are: $4.00 (matinee before 6:00pm)    $6.00 (evening)
+
+For Free Birds enter 1
+For Bethooven enter 2
+-99
+Try again
+To show current sales enter 1
+To show current profits enter 2
+To turn off the system enter 3
+To return to the main screen enter -99
+3
+Logging Off...

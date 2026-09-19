@@ -1,0 +1,41 @@
+{
+    "quests": [
+        {
+            "id": "lost_amulet",
+            "description": "A villager has lost their precious amulet in the forest. Find and return it!",
+            "type": "fetch",
+            "item": "amulet",
+            "reward": {"gold": 30, "xp": 20}
+        },
+        {
+            "id": "bandit_hunt",
+            "description": "A group of bandits is terrorizing travelers. Defeat 3 of them!",
+            "type": "combat",
+            "target": "bandit",
+            "amount": 3,
+            "reward": {"gold": 50, "xp": 40}
+        },
+        {
+            "id": "ancient_scroll",
+            "description": "Find an ancient scroll hidden in the ruins.",
+            "type": "fetch",
+            "item": "ancient scroll",
+            "reward": {"gold": 25, "xp": 15}
+        },
+        {
+            "id": "orc_invasion",
+            "description": "An orc war party is approaching. Eliminate 5 orcs before they reach the village!",
+            "type": "combat",
+            "target": "orc",
+            "amount": 5,
+            "reward": {"gold": 80, "xp": 60}
+        },
+        {
+            "id": "dragon_relic",
+            "description": "Deep in the caverns lies a legendary dragon relic. Retrieve it!",
+            "type": "fetch",
+            "item": "dragon relic",
+            "reward": {"gold": 100, "xp": 80}
+        }
+    ]
+}

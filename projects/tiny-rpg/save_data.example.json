@@ -1,0 +1,52 @@
+{
+    "name": "Bryce",
+    "progress": 5,
+    "inventory": [
+        "potion, healing",
+        "magic sword",
+        "amulet of strength",
+        "demon blade",
+        "magic sword",
+        "demon blade",
+        "demon blade",
+        "magic sword",
+        "demon blade",
+        "bow, short",
+        "bow, short",
+        "sword, long",
+        "amulet of strength",
+        "chimera horn",
+        "amulet of strength",
+        "giant's club"
+    ],
+    "quest_items": [
+        "amulet",
+        "ancient scroll",
+        "dragon relic"
+    ],
+    "equipped": {
+        "weapon": "demon blade",
+        "armor": "armor, heavy",
+		"amulet": "amulet of strength",
+		"ring": ""
+    },
+    "stats": {
+        "max_health": 270,
+        "health": 270,
+        "max_mana": 270,
+        "mana": 270,
+        "power": 46,
+        "defense": 51,
+        "gold": 749,
+        "xp": 0
+    },
+    "quest_log": [
+        "lost_amulet"
+    ],
+    "spells": [
+        "fireball",
+        "heal",
+        "lightning_bolt",
+        "ice_shard"
+    ]
+}
