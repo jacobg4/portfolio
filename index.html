@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Jacob Givhan — Software Portfolio</title>
+<meta name="description" content="Software and game development portfolio of Jacob Givhan.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" type="image/png" href="assets/img/favicon.png">
+</head>
+<body>
+
+<nav class="site-nav">
+  <a href="#top" class="nav-brand">JG</a>
+  <button class="nav-toggle" id="navToggle" aria-label="Toggle menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+  <div class="nav-links" id="navLinks">
+    <a href="#projects">Projects</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <p class="hero-eyebrow">Software &amp; Game Development</p>
+  <h1 class="hero-name">Jacob Givhan</h1>
+  <p class="hero-tagline">IT Student &amp; Software Developer</p>
+  <p class="hero-bio">I build practical software with C++, Python, JavaScript, and SQL &mdash; focused on solving real problems and leveling up how I design and structure applications.</p>
+  <div class="hero-ctas">
+    <a href="#projects" class="btn btn-primary">View Projects</a>
+    <a href="#contact" class="btn btn-secondary">Get in Touch</a>
+  </div>
+</header>
+
+<main>
+<section id="projects" class="section">
+  <p class="section-eyebrow">Selected Work</p>
+  <h2 class="section-title">Projects</h2>
+
+  <div class="project-featured" style="--proj-accent:#c9a24a; --proj-accent-dim:#5a3f14;">
+    <div class="project-featured-media">
+      <img src="assets/img/bloodburden-hero.jpg" alt="Blood &amp; Burden logo" loading="lazy">
+    </div>
+    <div class="project-featured-body">
+      <p class="project-kicker">Featured &middot; Full-Stack Game</p>
+      <h3 class="project-title">Blood &amp; Burden</h3>
+      <p class="project-desc">
+        A browser-based medieval fantasy RPG with tabletop-style life-path character creation,
+        permanent death, and tactical turn-based combat. Players build a character through
+        fourteen distinct careers before ever setting foot on a battlefield — every stat, skill,
+        connection, and enemy comes from choices made during that life, not a character sheet
+        filled out in advance.
+      </p>
+      <ul class="project-stats">
+        <li><strong>345+</strong> commits</li>
+        <li><strong>~39,000</strong> lines of PHP</li>
+        <li><strong>128</strong> backend modules</li>
+        <li>Built in <strong>~6 weeks</strong></li>
+      </ul>
+      <div class="project-tags">
+        <span class="tag">PHP</span>
+        <span class="tag">MySQL</span>
+        <span class="tag">JavaScript</span>
+        <span class="tag">Game Design</span>
+        <span class="tag">Solo Dev</span>
+      </div>
+      <div class="project-links">
+        <a href="https://bloodburden.labcabin.org" target="_blank" rel="noopener" class="btn btn-primary btn-sm">Play the Game</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="project-grid" id="schoolProjects">
+
+    <article class="project-card">
+      <p class="project-kicker"><span class="lang-dot" style="background:#f34b7d"></span>Coursework &middot; CS317</p>
+      <h3 class="project-title">Blackjack Casino Engine</h3>
+      <p class="project-desc">
+        A console blackjack game with a real betting loop: wager validation, a card dealer with
+        proper ace scoring, dealer AI that plays to house rules, and a win/loss/push resolver.
+        Every hand is logged to a persistent file so players can review their session history.
+        Currently being rebuilt into a larger <strong>Casino Simulator Engine</strong>.
+      </p>
+      <div class="project-tags">
+        <span class="tag">C++</span>
+        <span class="tag">File I/O</span>
+        <span class="tag">Game Logic</span>
+      </div>
+      <div class="project-links">
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/blackjack-casino.cpp" data-title="GivhanBonusProject.cpp — Blackjack Casino Engine">View Source</button>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <p class="project-kicker"><span class="lang-dot" style="background:#f34b7d"></span>Coursework &middot; CS317</p>
+      <h3 class="project-title">Movie Theater Reservation System</h3>
+      <p class="project-desc">
+        A ticketing and seat-map system for a two-screen theater. Handles matinee/evening pricing,
+        an interactive seat grid across four showings, and an admin panel with running sales and
+        profit reports read back from disk. Includes a seat-blocking pass that marks isolated
+        single seats as unavailable so parties don't get split up.
+      </p>
+      <div class="project-tags">
+        <span class="tag">C++</span>
+        <span class="tag">2D Arrays</span>
+        <span class="tag">File I/O</span>
+      </div>
+      <div class="project-links">
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/movie-theater.cpp" data-title="GivhanProj3.cpp — Movie Theater Reservation System">View Source</button>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <p class="project-kicker"><span class="lang-dot" style="background:#f34b7d"></span>Coursework &middot; ITE450</p>
+      <h3 class="project-title">Sudoku Puzzle Generator</h3>
+      <p class="project-desc">
+        Two approaches to procedural Sudoku generation: a recursive backtracking solver that fills
+        and validates a full N&times;N grid before removing a controlled number of digits, and a
+        faster block-shuffle generator purpose-built for 4&times;4 boards with timing instrumentation
+        to compare performance.
+      </p>
+      <div class="project-tags">
+        <span class="tag">C++</span>
+        <span class="tag">Backtracking</span>
+        <span class="tag">Algorithms</span>
+      </div>
+      <div class="project-links">
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/sudoku-generator.cpp" data-title="Sudoku.cpp — Backtracking Generator">View Source</button>
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/sudoku-4x4.cpp" data-title="Sudoku4x4.cpp — Block-Shuffle Generator">4&times;4 Version</button>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<section id="about" class="section section-alt">
+  <p class="section-eyebrow">About</p>
+  <h2 class="section-title">Background</h2>
+  <p class="about-text">I'm an Information Technology student with hands-on experience in software development, systems administration, and IT infrastructure. I build practical software using C++, Python, JavaScript, and SQL, with a focus on solving real problems and continually improving how I design and structure applications. I'm currently completing my bachelor's degree at Athens State University and expanding my portfolio through modern software engineering projects.</p>
+  <div class="skills-grid">
+    <span class="tag">C++</span>
+    <span class="tag">Python</span>
+    <span class="tag">JavaScript</span>
+    <span class="tag">SQL</span>
+    <span class="tag">PHP</span>
+    <span class="tag">Git</span>
+    <span class="tag">Systems Administration</span>
+  </div>
+</section>
+
+<section id="contact" class="section">
+  <p class="section-eyebrow">Get in Touch</p>
+  <h2 class="section-title">Contact</h2>
+  <div class="contact-links">
+    <a href="mailto:jacob.p.givhan@gmail.com" class="contact-link">Email</a>
+    <a href="https://www.linkedin.com/in/jacob-givhan-17b73b137/" target="_blank" rel="noopener" class="contact-link">LinkedIn</a>
+    <a href="https://github.com/jacobg4/portfolio" target="_blank" rel="noopener" class="contact-link">GitHub</a>
+  </div>
+</section>
+</main>
+
+<div class="code-modal" id="codeModal" hidden>
+  <div class="code-modal-backdrop" id="codeModalBackdrop"></div>
+  <div class="code-modal-panel">
+    <div class="code-modal-header">
+      <span class="code-modal-title" id="codeModalTitle">source.cpp</span>
+      <button class="code-modal-close" id="codeModalClose" aria-label="Close">&times;</button>
+    </div>
+    <pre class="code-modal-body"><code id="codeModalCode">Loading&hellip;</code></pre>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <p>&copy; <span id="year"></span> Jacob Givhan</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
