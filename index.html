@@ -71,6 +71,46 @@
     </div>
   </div>
 
+  <div class="project-lineage">
+    <p class="project-kicker">Origin Story</p>
+    <h3 class="project-title">From Console Prototype to Blood &amp; Burden</h3>
+    <div class="lineage-strip">
+      <span class="lineage-step">
+        <span class="lineage-step-lang" style="background:#f34b7d"></span>
+        C++ Prototype
+      </span>
+      <span class="lineage-arrow">&rarr;</span>
+      <span class="lineage-step">
+        <span class="lineage-step-lang" style="background:#3572A5"></span>
+        tiny-rpg (Python CLI)
+      </span>
+      <span class="lineage-arrow">&rarr;</span>
+      <span class="lineage-step lineage-step-current">
+        <span class="lineage-step-lang" style="background:#c9a24a"></span>
+        Blood &amp; Burden (PHP, live)
+      </span>
+    </div>
+    <p class="project-desc">
+      Blood &amp; Burden didn't start as a web app. The first attempt was a rough C++ console
+      prototype with hand-rolled combat and colored console text. <strong>tiny-rpg</strong> picked
+      up from there in Python: a full data-driven CLI RPG with monsters, dungeons, quests, and
+      items loaded from JSON, turn-based combat with momentum and critical hits, a spellbook,
+      dialogue options mid-battle (taunt, intimidate, negotiate), a shop and training grounds, and
+      save/load. Its combat pacing and quest system carried straight over into Blood &amp; Burden's
+      design.
+    </p>
+    <div class="project-tags">
+      <span class="tag">Python</span>
+      <span class="tag">JSON-Driven Content</span>
+      <span class="tag">Turn-Based Combat</span>
+      <span class="tag">C++</span>
+    </div>
+    <div class="project-links">
+      <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/tinyrpg-cli.py" data-title="tinyrpg-cli.py — tiny-rpg">View tiny-rpg Source</button>
+      <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/rpg-prototype.cpp" data-title="game.cpp — Earliest C++ Prototype">View Earliest Prototype</button>
+    </div>
+  </div>
+
   <div class="project-grid" id="schoolProjects">
 
     <article class="project-card">
@@ -128,6 +168,29 @@
       <div class="project-links">
         <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/sudoku-generator.cpp" data-title="Sudoku.cpp — Backtracking Generator">View Source</button>
         <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/sudoku-4x4.cpp" data-title="Sudoku4x4.cpp — Block-Shuffle Generator">4&times;4 Version</button>
+      </div>
+    </article>
+
+    <article class="project-card">
+      <p class="project-kicker"><span class="lang-dot" style="background:#3572A5"></span>Personal Tooling</p>
+      <h3 class="project-title">Python Utility Scripts</h3>
+      <p class="project-desc">
+        A set of small practice scripts covering common sysadmin and IT-security tasks: sorting a
+        messy folder by file type, parsing a web server log for top IPs and status codes, checking
+        password strength against composition rules, and scanning a host or subnet for open common
+        ports.
+      </p>
+      <div class="project-tags">
+        <span class="tag">Python</span>
+        <span class="tag">Automation</span>
+        <span class="tag">Networking</span>
+        <span class="tag">Security</span>
+      </div>
+      <div class="project-links">
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/file-cleanup.py" data-title="AutoFileCleanup.py">File Cleanup</button>
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/log-analyzer.py" data-title="log_analyzer.py">Log Analyzer</button>
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/password-checker.py" data-title="password_checker.py">Password Checker</button>
+        <button class="btn btn-secondary btn-sm" data-view-src="assets/projects/netscan.py" data-title="netscan.py">Network Scanner</button>
       </div>
     </article>
 
