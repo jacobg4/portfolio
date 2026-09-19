@@ -215,6 +215,14 @@ ul { list-style: none; }
   color: var(--text-muted);
 }
 .project-links { display: flex; gap: 12px; flex-wrap: wrap; }
+.project-note {
+  margin-top: 16px;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+.project-note a { color: var(--accent); text-decoration: none; }
+.project-note a:hover { text-decoration: underline; }
 
 /* ── Project lineage (secondary featured) ── */
 .project-lineage {

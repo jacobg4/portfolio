@@ -1,6 +1,5 @@
 //Jacob Givhan
-//jacob.givhan@athens.edu
-//00094611
+//j_givhan4@hotmail.com
 
 #include <iostream>
 #include <fstream>

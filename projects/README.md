@@ -5,8 +5,8 @@ Full source for the coursework and personal projects referenced on the portfolio
 [the live site](../index.html)). Compiled binaries (`.exe`) and assignment write-up PDFs
 are omitted; only source code and the data files needed to run it are included.
 
-Blood & Burden is intentionally **not** included here — see the main
-[README](../README.md) for why.
+Blood & Burden's full source is intentionally **not** included — `blood-burden-architecture-sample/`
+has a curated, secret-free excerpt instead. See that folder's own README for why.
 
 | Folder | Description |
 |---|---|
@@ -16,3 +16,4 @@ Blood & Burden is intentionally **not** included here — see the main
 | `tiny-rpg/` | A data-driven Python CLI RPG — the direct predecessor to Blood & Burden. Monsters, dungeons, quests, and items are all defined in the JSON files here; `save_data.example.json` is a sample save. |
 | `rpg-prototype-cpp/` | The earliest prototype: a rough, unfinished C++ console RPG that came before tiny-rpg. |
 | `python-utility-scripts/` | Small sysadmin/security practice scripts: file organizer, log analyzer, password strength checker, network scanner. |
+| `blood-burden-architecture-sample/` | A curated, secret-free excerpt of Blood & Burden's PHP backend — architecture and code quality only, no game content or credentials. |
