@@ -15,8 +15,6 @@ def generate_w(n):
 
     raise ValueError("Could not find a valid w.")
 
-import random
-
 def generate_superincreasing_sequence(size):
     sequence = []
     running_sum = 0
@@ -92,7 +90,6 @@ def process_input():
     for t in range(test_cases):
         print(f"Test Case {t + 1}")
         plaintext = input("Enter Plaintext: ")  # Read the plaintext
-        index += 1
         sequence_size = 8
         sequence = generate_superincreasing_sequence(sequence_size)
 
@@ -123,6 +120,7 @@ def process_input():
             print("Verification: SUCCESS")
         else:
             print("Verification: FAILED")
+        index += 1
 
 if __name__ == "__main__":
     try:
