@@ -15,5 +15,5 @@ has a curated, secret-free excerpt instead. See that folder's own README for why
 | `sudoku-generator/` | Two Sudoku generation approaches: a general N&times;N recursive backtracking solver, and a 4&times;4 block-shuffle generator with timing. |
 | `tiny-rpg/` | A data-driven Python CLI RPG — the direct predecessor to Blood & Burden. Monsters, dungeons, quests, and items are all defined in the JSON files here; `save_data.example.json` is a sample save. |
 | `rpg-prototype-cpp/` | The earliest prototype: a rough, unfinished C++ console RPG that came before tiny-rpg. |
-| `python-utility-scripts/` | Small sysadmin/security practice scripts: file organizer, log analyzer, password strength checker, network scanner. |
+| `python-utility-scripts/` | Small sysadmin/security practice scripts: file organizer, log analyzer, password strength checker, network scanner, and an educational Merkle-Hellman knapsack cipher (`merkle_hellman.py`). |
 | `blood-burden-architecture-sample/` | A curated, secret-free excerpt of Blood & Burden's PHP backend — architecture and code quality only, no game content or credentials. |
