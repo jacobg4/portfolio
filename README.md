@@ -9,7 +9,7 @@ Personal software portfolio: a static site (HTML/CSS/JS, no build step) showcasi
 - `style.css` — styling
 - `script.js` — nav toggle + source-code viewer modal
 - `assets/img/` — images
-- `assets/projects/` — source files shown in the "View Source" modal on project cards
+- `projects/` — full source for each project; these are the files shown in the "View Source" modal on the project cards
 
 ## Running locally
 
