@@ -16,4 +16,5 @@ has a curated, secret-free excerpt instead. See that folder's own README for why
 | `tiny-rpg/` | A data-driven Python CLI RPG — the direct predecessor to Blood & Burden. Monsters, dungeons, quests, and items are all defined in the JSON files here; `save_data.example.json` is a sample save. |
 | `rpg-prototype-cpp/` | The earliest prototype: a rough, unfinished C++ console RPG that came before tiny-rpg. |
 | `python-utility-scripts/` | Small sysadmin/security practice scripts: file organizer, log analyzer, password strength checker, network scanner, and an educational Merkle-Hellman knapsack cipher (`merkle_hellman.py`). |
+| `credit-payoff-planner/` | Work-in-progress Python CLI that models several credit accounts and simulates month-by-month minimum-payment payoff (months, interest, total paid). Avalanche/snowball strategies are next. |
 | `blood-burden-architecture-sample/` | A curated, secret-free excerpt of Blood & Burden's PHP backend — architecture and code quality only, no game content or credentials. |
