@@ -13,8 +13,13 @@ for i in range(number_of_accounts):
     account_name = input("Enter account name: ")
     balance = float(input("Enter balance: "))
     limit = float(input("Enter limit: "))
+    while limit <= 0:
+        limit = float(input("Limit cannot be less than or equal to 0: "))
     apr = float(input("Enter APR: "))
     minimum_payment = float(input("Enter minimum payment: "))
+    interest = monthly_interest(balance, monthly_apr(apr))
+    while minimum_payment <= interest:
+        minimum_payment = float(input(f"Minimum payment must exceed monthly interest of ${interest:.2f}: "))
 
     account = Account(account_name, balance, limit, apr, minimum_payment)
 
@@ -60,15 +65,46 @@ profile.available_extra_payment = float(input("Enter the available extra payment
 
 strategy_min_payment = StrategyMinPayment()
 strategy_min_payment.months, strategy_min_payment.interest_paid, strategy_min_payment.total_paid = minimum_payment_simulation(profile)
+strategy_avalanche = AvalancheStrategy()
+strategy_avalanche.months, strategy_avalanche.interest_paid, strategy_avalanche.total_paid, strategy_avalanche.paid_accounts = payoff_strategy(
+    accounts,
+    sort_key=lambda acc:acc.apr,
+    reverse=True,
+    extra_payment=profile.available_extra_payment
+)
+strategy_snowball = SnowballStrategy()
+strategy_snowball.months, strategy_snowball.interest_paid, strategy_snowball.total_paid, strategy_snowball.paid_accounts = payoff_strategy(
+    accounts,
+    sort_key=lambda acc: acc.balance,
+    reverse=False,
+    extra_payment=profile.available_extra_payment
+)
+strategy_highest_balance = HighestBalanceStrategy()
+strategy_highest_balance.months, strategy_highest_balance.interest_paid, strategy_highest_balance.total_paid, strategy_highest_balance.paid_accounts = payoff_strategy(
+    accounts,
+    sort_key=lambda acc: acc.balance,
+    reverse=True,
+    extra_payment=profile.available_extra_payment
+)
+strategy_avalanche.interest_saved = strategy_min_payment.interest_paid - strategy_avalanche.interest_paid
+strategy_snowball.interest_saved = strategy_min_payment.interest_paid - strategy_snowball.interest_paid
+strategy_highest_balance.interest_saved = strategy_min_payment.interest_paid - strategy_highest_balance.interest_paid
 
-print(f"Months to payoff: {strategy_min_payment.months}")
-print(f"Interest paid: ${strategy_min_payment.interest_paid:.2f}")
-print(f"Total paid: ${strategy_min_payment.total_paid:.2f}")
+report = generate_report(
+    strategy_min_payment,
+    strategy_avalanche,
+    strategy_snowball,
+    strategy_highest_balance
+)
+print(report)
+with open("payoff_report.txt", "w", encoding="utf-8") as f:
+    f.write(report)
 
-for i, account in enumerate(accounts):
-    print(f"\nAccount: {i+1}")
-    print(f"Balance: {account.balance}")
-    print(f"Limit: {account.limit}")
-    print(f"APR: {account.apr}")
-    print(f"Minimum payment: {account.minimum_payment}")
+
+#for i, account in enumerate(accounts):
+#    print(f"\nAccount: {i+1}")
+#    print(f"Balance: {account.balance}")
+#    print(f"Limit: {account.limit}")
+#    print(f"APR: {account.apr}")
+#    print(f"Minimum payment: {account.minimum_payment}")
 

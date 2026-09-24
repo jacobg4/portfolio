@@ -11,19 +11,34 @@ class Profile:
     highest_utilization_accounts: list[Account] = field(default_factory=list)
     available_extra_payment: float = 0.0
 
+@dataclass
 class StrategyMinPayment:
     months: int = 0
     interest_paid: float = 0.0
     total_paid: float = 0.0
+    interest_saved: float = 0.0
+    paid_accounts: list[Account] = field(default_factory=list)
 
+@dataclass
 class AvalancheStrategy:
     months: int = 0
     interest_paid: float = 0.0
     total_paid: float = 0.0
     interest_saved: float = 0.0
+    paid_accounts: list[Account] = field(default_factory=list)
 
+@dataclass
 class SnowballStrategy:
     months: int = 0
     interest_paid: float = 0.0
     interest_saved: float = 0.0
     total_paid: float = 0.0
+    paid_accounts: list[Account] = field(default_factory=list)
+
+@dataclass
+class HighestBalanceStrategy:
+    months: int = 0
+    interest_paid: float = 0.0
+    total_paid: float = 0.0
+    interest_saved: float = 0.0
+    paid_accounts: list[Account] = field(default_factory=list)

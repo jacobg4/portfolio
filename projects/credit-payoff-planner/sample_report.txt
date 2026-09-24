@@ -1,0 +1,28 @@
+                         Credit Card Payoff Report                          
+                              2026-09-24 14:01                              
+----------------------------------------------------------------------------
+                      Minimum Only     Avalanche      Snowball  High Balance
+----------------------------------------------------------------------------
+Months                          77            28            28            28
+Interest                 $5,528.86     $1,971.62     $2,126.70     $2,041.91
+Total Paid              $13,178.86     $9,621.62     $9,776.70     $9,691.91
+Interest Saved               $0.00     $3,557.25     $3,402.16     $3,486.95
+
+Payoff Timeline
+Avalanche (28 months)
+  Month   5: Card B paid off
+  Month  22: Card A paid off
+  Month  28: Card C paid off
+Snowball (28 months)
+  Month   5: Card B paid off
+  Month  16: Card C paid off
+  Month  28: Card A paid off
+High Balance (28 months)
+  Month  20: Card A paid off
+  Month  27: Card C paid off
+  Month  28: Card B paid off
+*Disclaimer*
+This report assumes no additional purchases, cash advances, fees, or other
+charges are added to the accounts during the payoff period. Any account
+activity beyond modeled interest may change the projected payoff timeline,
+total amount paid, and estimated interest savings.
